@@ -1,5 +1,8 @@
 ---
-title: "About me"
+  title: "About Me"
+  output:
+    html_document:
+      toc: FALSE
 ---
 
 I am a postgraduate student in the [Institute of Health and Wellbeing](https://www.gla.ac.uk/researchinstitutes/healthwellbeing) at the University of Glasgow.
