@@ -1,9 +1,15 @@
 ---
-title: "My Website"
+title: "About me"
 ---
 
 I am a postgraduate student in the [Institute of Health and Wellbeing](https://www.gla.ac.uk/researchinstitutes/healthwellbeing) at the University of Glasgow.
 
 I work with [Andrew Gumley](https://www.gla.ac.uk/researchinstitutes/healthwellbeing/staff/andrewgumley/)
 
-I like cats.
+# Current Project
+
+
+# Research Interests
+
+I am interested in evaluating psychosocial interventions for 
+psychosis.

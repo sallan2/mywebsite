@@ -5,5 +5,13 @@ output:
   html_document:  
     self_contained: no  
     theme: flatly  
+    css: style.css
 navbar:  
-  title: "My First Webpage"
+  title: "Research Website"
+  right:
+    - text: "Research Interests"
+      href: index.html
+    - text: "Education"
+      href: edu.html
+    - text: "Contact Me"
+      href: contact.html
