@@ -1,8 +1,21 @@
 ---
-  title: "About Me"
+  title: "Education and Skills"
   output:
     html_document:
-      toc: FALSE
+      toc: True
 ---
 
-edu
+#Education
+
+## PhD, Implementation Science, University of Glasgow
+
+test
+
+## MA(SocSci) Psychology, University of Glasgow
+
+My final year project explored mental health staff perceptions of digital technology usage in managing psychosis.
+
+I was joint prize winner for best class performance in social psychology with [Rebeeca Lai](https://rebeccajlai.github.io/mywebpage/index.html)
+
+# Training & Skills
+
