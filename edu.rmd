@@ -5,17 +5,36 @@
       toc: True
 ---
 
-#Education
+# Education
 
-## PhD, Implementation Science, University of Glasgow
+# PhD, Implementation Science, University of Glasgow
 
-test
 
-## MA(SocSci) Psychology, University of Glasgow
+My PhD research examines process evaluation in complex interventions for psychosis
 
-My final year project explored mental health staff perceptions of digital technology usage in managing psychosis.
+# MA(SocSci) Psychology (first class), University of Glasgow
 
-I was joint prize winner for best class performance in social psychology with [Rebeeca Lai](https://rebeccajlai.github.io/mywebpage/index.html)
+
+I graduated in 2017. My final year project explored mental health staff perceptions of digital technology usage in managing psychosis, jointly supervised by Andrew Gumley and Stephany Biello. I presented the results at The International Society for Research on Internet Interventions (ISRII) in Berlin.
+
+I was a joint winner of the Pickford Prize for best performance in social psychology for the class of 2017.
+
+# Research Assistant Experience 
+
+August 2017 - Present [Project Soothe](http://www.projectsoothe.com/) 
 
 # Training & Skills
 
+<div id="bum">
+
+| Skill               | Details                                                                                                           |
+|---------------------|-------------------------------------------------------------------------------------------------------------------|
+| Qualitative Methods | Grounded Theory and Thematic Analysis. Additionally, transcribing and conducting focus groups on sensitive topics |
+| Systematic Reviews  | Following PRISMA guidelines.                                                                                      |
+| Coding              | I am currently learning code with [Code First Girls](http://www.codefirstgirls.co.uk)                             |
+
+</div>
+
+# Mental Health Campaigning
+
+I have spoken about my experiences of accessing mental health sevices at academic conferences and in the media. More recently I have volunteered my time to assisting in the development of psychosocial training materials for mental health professionals. I am a proud member of [Time & Space](http://timeandspace.moonfruit.com) - a support group for people who hear voices and/or self-harm in Glasgow.

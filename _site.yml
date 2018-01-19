@@ -13,7 +13,7 @@ output:
 navbar:  
   title: "Research Website"
   right:
-    - text: "Research Interests"
+    - text: "About Me"
       href: index.html
     - text: "Education"
       href: edu.html
