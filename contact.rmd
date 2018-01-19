@@ -5,4 +5,8 @@
       toc: FALSE
 ---
 
-contact
+
+<a href="https://github.com/sallan2">
+<img src="images/github.png"
+onmouseover="this.src='images/github.png';"
+onmouseout="this.src='images/github_2.png';" />
