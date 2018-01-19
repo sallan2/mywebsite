@@ -31,7 +31,7 @@ August 2017 - Present [Project Soothe](http://www.projectsoothe.com/)
 |---------------------|-------------------------------------------------------------------------------------------------------------------|
 | Qualitative Methods | Grounded Theory and Thematic Analysis. Additionally, transcribing and conducting focus groups on sensitive topics |
 | Systematic Reviews  | Following PRISMA guidelines.                                                                                      |
-| Coding              | I am currently learning code with [Code First Girls](http://www.codefirstgirls.co.uk)                             |
+| Coding              | I am currently learning code with [Code First Girls](http://www.codefirstgirls.org.uk)                             |
 
 </div>
 
