@@ -5,12 +5,14 @@
       toc: True
 ---
 
+<div id="bum">
+
 # Education
 
 # PhD, Implementation Science, University of Glasgow
 
 
-My PhD research examines process evaluation in complex interventions for psychosis
+My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis.
 
 # MA(SocSci) Psychology (first class), University of Glasgow
 
@@ -25,7 +27,6 @@ August 2017 - Present [Project Soothe](http://www.projectsoothe.com/) (Universit
 
 # Training & Skills
 
-<div id="bum">
 
 | Skill               | Details                                                                                                           |
 |---------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -33,8 +34,10 @@ August 2017 - Present [Project Soothe](http://www.projectsoothe.com/) (Universit
 | Systematic Reviews  | Following PRISMA guidelines.                                                                                      |
 | Coding              | I am currently learning code with [Code First Girls](http://www.codefirstgirls.org.uk)                             |
 
-</div>
+
 
 # Mental Health Campaigning
 
 I have spoken about my experiences of accessing mental health sevices at academic conferences and in the media. More recently I have volunteered my time to assisting in the development of psychosocial training materials for mental health professionals. I am a proud member of [Time & Space](http://timeandspace.moonfruit.com) - a support group for people who hear voices and/or self-harm in Glasgow.
+
+</div>

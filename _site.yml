@@ -1,22 +1,22 @@
-name: mywebpage
-author: sallan2
-output_dir: docs
-output:
-  html_document:
-    theme: flatly
+name: "mywebpage"  
+author: "sallan2"  
+output_dir: "docs"  
+output:  
+  html_document: 
+    theme: flatly   
     css: style.css
-    toc: yes
+    toc: TRUE
     toc_depth: 2
-    toc_float: yes
-    lib_dir: site_libs
-    self_contained: no
-navbar:
-  title: Research Website
+    toc_float: TRUE
+    self_contained: FALSE
+    
+navbar:  
+  title: "Research Website"
   right:
-  - text: About Me
-    href: index.html
-  - text: Education
-    href: edu.html
-  - text: Contact Me
-    href: contact.html
-
+    - text: "About Me"
+      href: index.html
+    - text: "Education"
+      href: edu.html
+    - text: "Contact Me"
+      href: contact.html
+      

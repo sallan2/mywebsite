@@ -3,8 +3,8 @@ p {
   font-size: 1.25em;
   font-family: "arial";
   margin: auto;
-  padding: 0 0 0 30;
-  padding-bottom: 20px;
+  padding: 0 0 0 20;
+  padding-bottom: 25px;
  
 }
 
@@ -12,25 +12,24 @@ h1, h2, h3 {
   font-size: 1.5em;
   font-family: "arial";
   margin: auto;
-   padding: 0 0 0 30;
-   padding-bottom: 20px;
+   padding: 0 0 0 20;
+   padding-bottom: 25px;
 }
 
 table {
-  
-
+  font-size: 1.25em;
+   font-family: arial;
 }
 
 #bum {
-  width: 600px;
+  width: 800px;
   margin: auto;
 
 }
-  
-}
+
 
 th,td {
-  font-size: 1.25em;
+  
 }
 
 tr:nth-child(even) {
