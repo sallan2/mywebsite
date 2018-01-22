@@ -6,7 +6,12 @@
 ---
 
 
+
+<a class="github-button" href="https://github.com/sallan2" aria-label="Follow @sallan2 on GitHub">Follow @sallan2</a>
+
 <a href="https://github.com/sallan2">
 <img src="images/github.png"
 onmouseover="this.src='images/github.png';"
 onmouseout="this.src='images/github_2.png';" />
+
+<script async defer src="https://buttons.github.io/buttons.js"></script>
