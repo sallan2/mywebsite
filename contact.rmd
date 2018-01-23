@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/sallan2">
-<img src="images/github.png"
+<img src="images/git_cat.png"
 onmouseover="this.src='images/git_cat.png';"
 onmouseout="this.src='images/git_cat_2.png';" />
 
