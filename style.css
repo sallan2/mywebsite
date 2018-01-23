@@ -9,24 +9,25 @@ p {
 }
 
 #one {
-  
-  height: 30%;
-  width: 30%;
+
+
 }
 
 #twitter {
- width: 50%;
  float: right;
+ width: 500px;
+ 
 }
 
 #photo {
-  width: 50%;
   float: left;
+  width:calc(100%-500px);
+  height:calc(100%-400px);
   
 }
 
 #container {
-display: flex;
+  display: flex;
   
 }
 
