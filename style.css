@@ -15,13 +15,13 @@ p {
 
 #twitter {
  float: right;
- width: 500px;
+ width: 600px;
  
 }
 
 #photo {
   float: left;
-  width:calc(100%-500px);
+  width:calc(100%-600px);
   height:calc(100%-400px);
   
 }
