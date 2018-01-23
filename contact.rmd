@@ -11,7 +11,7 @@
 
 <a href="https://github.com/sallan2">
 <img src="images/git_cat.png"
-onmouseover="this.src='images/git_cat2.png';"
-onmouseout="this.src='images/git_cat.png';" />
+onmouseover="this.src='images/git_cat.png';"
+onmouseout="this.src='images/git_cat_2.png';" />
 
 <a href="https://rebeccajlai.github.io/mywebpage/index.html"> Buttons made by Rebecca Lai</a>
