@@ -10,8 +10,24 @@ p {
 
 #one {
   
-  height: 25%;
-  width: 25%;
+  height: 30%;
+  width: 30%;
+}
+
+#twitter {
+ width: 50%;
+ float: right;
+}
+
+#photo {
+  width: 50%;
+  float: left;
+  
+}
+
+#container {
+display: flex;
+  
 }
 
 h1 {
