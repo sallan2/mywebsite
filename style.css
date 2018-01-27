@@ -21,17 +21,13 @@ ul {
 }
 
 #contact_box {
-
-
-background-color: #f2f2f2;
-max-width: 500px;
-display: flex;
-
+  background-color: #f2f2f2;
+  max-width: 500px;
+  display: flex;
 }
 
 #deets {
   width: 70%;
-
 }
 #hwb {
   border: #f2f2f2;
