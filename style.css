@@ -39,8 +39,8 @@ display: flex;
   width:250px;
   height:198px;
   border-style: solid;
-  
-  
+  width:calc(100%-250px);
+  height:calc(100%-198px);
 }
 
 #indexpic {
