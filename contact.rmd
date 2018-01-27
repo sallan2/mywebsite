@@ -20,7 +20,7 @@
 </ul>
 </div>
 <div id="hwb">
-<img src="images/hwb2.jpg">
+<img src="images/hwb.jpg">
 </div>
 </div>
 
