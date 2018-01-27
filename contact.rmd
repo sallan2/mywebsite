@@ -18,10 +18,9 @@
 <li>Glasgow, G20 0XA</li>
 <li>**e-mail**: s.allan.2@research.gla.ac.uk</li>
 </ul>
-
 </div>
 <div id="hwb">
-<img src="images/hwb.jpg">
+<img src="images/hwb2.jpg">
 </div>
 </div>
 
