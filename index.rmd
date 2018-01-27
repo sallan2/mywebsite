@@ -7,14 +7,14 @@
 
 I am a postgraduate student in the [Institute of Health and Wellbeing](https://www.gla.ac.uk/researchinstitutes/healthwellbeing) at the University of Glasgow.
 
+<div id="indexpic">
 <img src="http://www.projectsoothe.com/communities/4/004/012/874/744//images/4633491597_94x119.jpg">
+</div>
 
 My PhD is supervised by [Andrew Gumley](https://www.gla.ac.uk/researchinstitutes/healthwellbeing/staff/andrewgumley/) and [Hamish McLeod](https://www.gla.ac.uk/researchinstitutes/healthwellbeing/staff/hamishmcleod/)
-
-# Current Project
 
 
 # Research Interests
 
-I am interested in evaluating psychosocial interventions for 
-psychosis.
+I am primarily interested in evaluating digital psychosocial interventions for 
+psychosis. Secondary interests include just about everything linked to psychosis/extreme mental states. Including contributions from neuroscience, philosophy and sociology. I believe psychosis is incredibly complex and needs many kinds of expertise to be researched effectively.  

@@ -7,11 +7,23 @@
 
 
 
+<div id="contact_box">
 
+<strong>Address :</strong>
+<ul>
+<li>Glasgow Mental Health Research Facility</li>
+<li>Institute of Health and Wellbeing</li>
+<li>University of Glasgow</li>
+<li>Fleming Pavilion</li>
+<li>West of Scotland Science Park (Todd Campus)</li>
+<li>Glasgow, G20 0XA</li>
+</ul>
+**e-mail**: s.allan.2@research.gla.ac.uk
+</div>
 
 <a href="https://github.com/sallan2">
 <img src="images/git_cat.png"
 onmouseover="this.src='images/git_cat.png';"
 onmouseout="this.src='images/git_cat_2.png';" />
 
-<a href="https://rebeccajlai.github.io/mywebpage/index.html"> Buttons made by Rebecca Lai</a>
+<a href="https://rebeccajlai.github.io/mywebpage/index.html">Rebecca Lai</a> made me an awesome button.

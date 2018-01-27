@@ -2,7 +2,7 @@
   title: "Education and Skills"
   output:
     html_document:
-      toc: True
+      toc: TRUE
 ---
 
 <div id="bum">
@@ -13,12 +13,14 @@
 
 My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis, utilising the EMPOWER trial as a case study.
 
-<a href="https://empowerstudy.net/"> EMPOWER </a> stands for Early signs Monitoring to Prevent relapse in psychosis and prOmote Wellbeing, Engagement and Recovery. It is an innovative research project which aims to develop and evaluate an App for use with adults who experience psychosis. The App will enable routine self-monitoring for a variety of different experiences, including psychotic experiences (e.g. hearing voices, experiencing suspicious thoughts), anxiety, mood and self-esteem.
+<img id="empower" img src="images/empower_logo.png">
 
-## MA(SocSci) Psychology (first class), University of Glasgow
+<a href="https://empowerstudy.net/"> EMPOWER </a> is an innovative research project which aims to develop and evaluate an App for use with adults who experience psychosis. The App will enable routine self-monitoring for a variety of different experiences, including psychotic experiences (e.g. hearing voices, experiencing suspicious thoughts), anxiety, mood and self-esteem. The EMPOWER team includes psychologists, researchers, nurses and peer support workers.
+
+## MA(SocSci) Psychology, University of Glasgow
 
 
-I graduated in 2017. My final year project explored mental health staff perceptions of digital technology usage in managing psychosis, jointly supervised by professors Andrew Gumley and Stephany Biello. This work was also completed within EMPOWER. I presented the results at The International Society for Research on Internet Interventions (ISRII) in Berlin.
+I graduated in 2017. My final year project explored mental health staff perceptions of digital technology usage in managing psychosis, jointly supervised by professors Andrew Gumley and Stephany Biello. This work was also completed within EMPOWER. I presented the results at The International Society for Research on Internet Interventions (ISRII) in Berlin October 2017.
 
 I was a joint winner of the Pickford Prize for best performance in social psychology for the class of 2017.
 
@@ -26,6 +28,7 @@ I was a joint winner of the Pickford Prize for best performance in social psycho
 
 August 2017 - Present [Project Soothe](http://www.projectsoothe.com/) (University of Edinburgh)
 
+<p>Assisting on Project Soothe is something I love doing. I have assisted with an exhibition, help engage the public with the projct via social media and maintain the website.</p>
 
 <div id="container">
 <div id="photo">
@@ -36,7 +39,7 @@ August 2017 - Present [Project Soothe](http://www.projectsoothe.com/) (Universit
 href="https://twitter.com/ProjectSoothe" 
 data-chrome="nofooter"
 data-link-color="#820bbb"
-data-width="500"
+data-width="600"
 data-height="400"
 data-border-color="#ffffff">
 Project Soothe Tweets
@@ -55,10 +58,5 @@ Project Soothe Tweets
 | Systematic Reviews  | Following PRISMA guidelines.                                                                                      |
 | Coding              | I am currently learning code with [Code First Girls](http://www.codefirstgirls.co.uk)                             |
 | Statistics          | Basic statistics in R.                                                                                            |
-
-
-## Mental Health Campaigning
-
-I have spoken about my experiences of accessing mental health sevices at academic conferences and in the media. More recently I have volunteered my time to assisting in the development of psychosocial training materials for mental health professionals. I am a proud member of [Time & Space](http://timeandspace.moonfruit.com) - a support group for people who hear voices and/or self-harm in Glasgow.
 
 </div>

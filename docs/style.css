@@ -4,12 +4,8 @@ p {
   font-family: "arial";
   margin: auto;
   padding: 0 0 0 20;
-  padding-bottom: 25px;
+  padding-bottom: 15px;
  
-}
-
-#one {
-
 
 }
 
@@ -19,11 +15,35 @@ p {
  
 }
 
+ul {
+  list-style: none;
+  
+}
+
+#contact_box {
+
+background-color: #f2f2f2;
+max-width: 500px;
+}
+
+#indexpic {
+  float:right;
+  margin: 10px 10px 10px;
+}
+
 #photo {
   float: left;
   width:calc(100%-600px);
   height:calc(100%-400px);
   
+}
+
+#empower {
+  width: 50%;
+  height 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 #container {
@@ -32,17 +52,17 @@ p {
 }
 
 h1 {
-  padding-top: 20px;
+  padding-top: 15px;
   font-family: "arial";
   margin: auto;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 h2, h3 {
   font-family: "arial";
   margin: auto;
    padding: 0 0 0 20;
-   padding-bottom: 25px;
+   padding-bottom: 15px;
 }
 
 table {
