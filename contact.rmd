@@ -6,9 +6,8 @@
 ---
 
 
-
 <div id="contact_box">
-
+<div id ="deets"
 <strong>Address :</strong>
 <ul>
 <li>Glasgow Mental Health Research Facility</li>
@@ -17,8 +16,13 @@
 <li>Fleming Pavilion</li>
 <li>West of Scotland Science Park (Todd Campus)</li>
 <li>Glasgow, G20 0XA</li>
+<li>**e-mail**: s.allan.2@research.gla.ac.uk</li>
 </ul>
-**e-mail**: s.allan.2@research.gla.ac.uk
+
+</div>
+<div id="hwb">
+<img src="images/hwb.jpg">
+</div>
 </div>
 
 <a href="https://github.com/sallan2">

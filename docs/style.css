@@ -22,8 +22,25 @@ ul {
 
 #contact_box {
 
+
 background-color: #f2f2f2;
 max-width: 500px;
+display: flex;
+
+}
+
+#deets {
+  width: 70%;
+
+}
+#hwb {
+  border: #f2f2f2;
+  border-width: 3px;
+  width:250px;
+  height:198px;
+  border-style: solid;
+  
+  
 }
 
 #indexpic {
@@ -37,6 +54,7 @@ max-width: 500px;
   height:calc(100%-400px);
   
 }
+
 
 #empower {
   width: 50%;
