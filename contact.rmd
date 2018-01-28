@@ -21,7 +21,7 @@
 <li>West of Scotland Science Park (Todd Campus)</li>
 <li>Glasgow, G20 0XA</li>
 </ul>
-<div style="width: 500px;">
+<div id="psyecr">
 <strong>e-mail :</strong> s.allan.2@research.gla.ac.uk
 </div>
 </div>
@@ -47,9 +47,8 @@ data-link-color="#820bbb"
 data-width="600"
 data-height="600"
 data-border-color="#ffffff">
-Project Soothe Tweets
+PsyECR Tweets
 </a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
 
