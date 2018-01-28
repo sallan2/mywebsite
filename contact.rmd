@@ -4,7 +4,7 @@
     html_document:
       toc: FALSE
 ---
-<div style="width:500px;">
+<div id="psyecr">
 <p>I tweet research and self-care for researchers as part of PsyECR. We are a group of early career researchers (ECRs) based in Glasgow who are especially interested in psychosis.</p>
 </div>
 
@@ -36,12 +36,14 @@
 onmouseover="this.src='images/git_cat.png';"
 onmouseout="this.src='images/git_cat_2.png';" />
 
-<div style="width:500px;">
+<div id="psyecr">
 <a href="https://rebeccajlai.github.io/mywebpage/index.html">Rebecca Lai</a> made me an awesome button for linking to my GitHub page.
 </div>
 
-<div style="position: absolute;right:100px;top:100px; width: 500px; height: 600px;">
+<div id="psyecr_tweets">
 
 <a class="twitter-timeline" data-width="500px" data-height="1000px" data-theme="light" style="position:absolute;left:500px" href="https://twitter.com/psyecr"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 
 

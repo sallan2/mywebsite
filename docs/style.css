@@ -20,6 +20,18 @@ ul {
   
 }
 
+#psyecr {
+  width:500px;
+}
+
+#psyecr_tweets {
+  position: absolute;
+  right:100px;
+  top:100px; 
+  width: 500px; 
+  height: 600px;
+}
+
 #contact_box {
   background-color: #f2f2f2;
   max-width: 500px;
