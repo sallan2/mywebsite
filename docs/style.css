@@ -21,15 +21,19 @@ ul {
 }
 
 #psyecr {
-  width:500px;
+  width:400px;
+  float: left;
+  
 }
 
 #psyecr_tweets {
-  position: absolute;
-  right:100px;
-  top:100px; 
-  width: 500px; 
-  height: 600px;
+
+float: right;
+width:calc(100%-400px);
+}
+
+#top_container {
+  position: flex;
 }
 
 #contact_box {

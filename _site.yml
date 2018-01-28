@@ -11,7 +11,7 @@ output:
     self_contained: FALSE
     
 navbar:  
-  title: "Research Website"
+  title: "Stephanie Allan"
   right:
     - text: "About Me"
       href: index.html

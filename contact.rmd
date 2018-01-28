@@ -4,8 +4,21 @@
     html_document:
       toc: FALSE
 ---
+<div id="top_container">
 <div id="psyecr">
 <p>I tweet research and self-care for researchers as part of PsyECR. We are a group of early career researchers (ECRs) based in Glasgow who are especially interested in psychosis.</p>
+</div>
+<div id="psyecr_tweets"> <a class="twitter-timeline" 
+href="https://twitter.com/PsyECR" 
+data-chrome="nofooter"
+data-link-color="#820bbb"
+data-width="500"
+data-height="600"
+data-border-color="#ffffff">
+PsyECR Tweets
+</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
 
 # Email & Address
@@ -40,15 +53,4 @@ onmouseout="this.src='images/git_cat_2.png';" />
 <a href="https://rebeccajlai.github.io/mywebpage/index.html">Rebecca Lai</a> made me an awesome button for linking to my GitHub page.
 </div>
 
-<div id="psyecr_tweets"> <a class="twitter-timeline" 
-href="https://twitter.com/PsyECR" 
-data-chrome="nofooter"
-data-link-color="#820bbb"
-data-width="600"
-data-height="600"
-data-border-color="#ffffff">
-PsyECR Tweets
-</a> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
 
