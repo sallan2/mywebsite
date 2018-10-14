@@ -11,7 +11,7 @@
 
 ## PhD, Implementation Science, University of Glasgow
 
-My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis, utilising the EMPOWER trial as a case study.
+My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis, utilising the EMPOWER trial as a case study. 
 
 <img id="empower" img src="images/empower_logo.png">
 
@@ -20,15 +20,15 @@ My PhD research (commenced October 2017) examines process evaluation within comp
 ## MA(SocSci) Psychology, University of Glasgow
 
 
-I graduated in 2017. My final year project explored mental health staff perceptions of digital technology usage in managing psychosis, jointly supervised by professors Andrew Gumley and Stephany Biello. This work was also completed within EMPOWER. I presented the results at The International Society for Research on Internet Interventions (ISRII) in Berlin October 2017.
+I graduated in 2017. My final year project explored mental health staff perceptions of digital technology in managing psychosis, jointly supervised by professors Andrew Gumley and Stephany Biello. This work was also completed within EMPOWER. I presented the results at The International Society for Research on Internet Interventions (ISRII) conference in Berlin October 2017.
 
-I was a joint winner of the Pickford Prize for best performance in social psychology for the class of 2017.
+I was a joint winner of the Pickford Prize for best performance in social psychology for the class of 2017. 
 
 ## Research Assistant Experience 
 
 August 2017 - Present [Project Soothe](http://www.projectsoothe.com/) (University of Edinburgh)
 
-<p>Assisting on Project Soothe is something I love doing. So far, I have assisted with an exhibition, helped engage the public with the project via social media and maintain the website.</p>
+<p>Assisting with public engagement activities, social media and maintaining the website.</p>
 
 <div id="container">
 <div id="photo">
@@ -55,7 +55,7 @@ Project Soothe Tweets
 |---------------------|-------------------------------------------------------------------------------------------------------------------|
 | Qualitative Methods | Grounded Theory and Thematic Analysis. Additionally, transcribing large volumes of data |
 | Systematic Reviews  | Following PRISMA guidelines.                                                                                      |
-| Coding              | I am currently learning code with [Code First Girls](http://www.codefirstgirls.co.uk)                             |
-| Statistics          | Basic statistics in R.                                                                                            |
+| Coding              | I learned HTML and Javascript with [Code First Girls](http://www.codefirstgirls.co.uk)                             |
+| Statistics          | Network Analysis.                                                                                            |
 
 </div>
