@@ -11,13 +11,13 @@
 
 ## PhD, Implementation Science, University of Glasgow
 
-My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis, utilising the EMPOWER trial as a case study. I presented analysis performed during my first year at the International Conference on Early Intervention in Mental Health in Boston October 2018. This was part of a symposium on service user involvement.
+My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis, utilising the EMPOWER trial as a case study. I presented analysis performed during my first year at the International Conference on Early Intervention in Mental Health in Boston October 2018. This was part of a symposium on service user involvement which is the mainstay of my work.
 
 <img id="empower" img src="images/empower_logo.png">
 
 <a href="https://empowerstudy.net/"> EMPOWER </a> is an innovative research project which aims to develop and evaluate an App for use with adults who experience psychosis. 
 
-## MA(SocSci) Psychology, University of Glasgow
+## MA(SocSci) Psychology 1.1, University of Glasgow
 
 
 I graduated in 2017. My final year project explored mental health staff perceptions of digital technology in managing psychosis, jointly supervised by professors Andrew Gumley and Stephany Biello. This work was also completed within EMPOWER. I presented the results at The International Society for Research on Internet Interventions (ISRII) conference in Berlin October 2017.
