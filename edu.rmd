@@ -11,11 +11,11 @@
 
 ## PhD, Implementation Science, University of Glasgow
 
-My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis, utilising the EMPOWER trial as a case study. 
+My PhD research (commenced October 2017) examines process evaluation within complex digital interventions for psychosis, utilising the EMPOWER trial as a case study. I presented analysis performed during my first year at the International Conference on Early Intervention in Mental Health in Boston October 2018. This was part of a symposium on service user involvement.
 
 <img id="empower" img src="images/empower_logo.png">
 
-<a href="https://empowerstudy.net/"> EMPOWER </a> is an innovative research project which aims to develop and evaluate an App for use with adults who experience psychosis. The App will enable routine self-monitoring for a variety of different experiences, including psychotic experiences (e.g. hearing voices, experiencing suspicious thoughts), anxiety, mood and self-esteem. The EMPOWER team includes psychologists, researchers, nurses and peer support workers.
+<a href="https://empowerstudy.net/"> EMPOWER </a> is an innovative research project which aims to develop and evaluate an App for use with adults who experience psychosis. 
 
 ## MA(SocSci) Psychology, University of Glasgow
 
